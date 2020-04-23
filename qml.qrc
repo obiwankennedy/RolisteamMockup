@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Rolisteam.qml</file>
+        <file>resources/images/arbre_square_mini.jpg</file>
+    </qresource>
+</RCC>
